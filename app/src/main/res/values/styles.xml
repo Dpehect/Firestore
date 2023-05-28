@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- ActionBar rengi -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- StatusBar rengi -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Uygulama arka plan rengi -->
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+
+    <!-- Renkler -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorBackground">#FFFFFF</color>
+</resources>
